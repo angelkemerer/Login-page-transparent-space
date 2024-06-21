@@ -22,4 +22,4 @@ Las contribuciones son bienvenidas. Por favor, sigue estos pasos para contribuir
 3. Envía tus cambios a la rama `(git push origin feature/nueva-funcionalidad)`.
 4. Abre un Pull Request.
 
-**Muchas gracias por leer!!**
+### **Muchas gracias por leer!!**
